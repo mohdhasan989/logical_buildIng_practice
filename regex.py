@@ -5,3 +5,4 @@ result = re.findall(r"\d+", text)
 
 print(result)
 print(re.match(r"Hello", "Hello Hasan"))
+print(re.split(r"[, ]+", "apple, mango orange"))
