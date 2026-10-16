@@ -1,1 +1,1 @@
-prectice for ML interview 
+practice questions for basic logic building
